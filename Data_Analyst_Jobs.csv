@@ -1,0 +1,126 @@
+Com_id,Company_name,Area,City,Status,Roles,Package,Experience,Work_mode,Skills,Application_date,Follow_up1,Follow_up2,Follow_up3,Shift
+1,Ernst & Young Global Limited,IT Services,Delhi,Screening,Data Scientist,5.5,3,Remote,"Python, SQL, Power BI",05-01-2025,,,,Rotational
+2,Shell plc,IT Services,Noida,Offer,Business Analyst,9.1,5,Hybrid,"Python, SQL, Tableau",07-01-2025,,,,Day
+3,Accenture plc,Fintech,Chennai,Rejected,Senior Data Analyst,11.1,5,Onsite,"Python, Machine Learning, SQL",14-02-2025,,,,Rotational
+4,One97 Communications Limited,Fintech,Gurgaon,Applied,Senior Data Analyst,11.7,1,Remote,"Python, Statistics, Excel",13-01-2025,,,,Day
+5,Deloitte Touche Tohmatsu Limited,Telecom,Delhi,Rejected,Senior Data Analyst,5.4,0,Onsite,"Excel, SQL, Power BI",01-02-2025,,,,Day
+6,Mu Sigma Inc.,Manufacturing,Bangalore,Rejected,Senior Data Analyst,16.8,0,Remote,"Python, SQL, Power BI",13-01-2025,,,,Day
+7,"ZS Associates, Inc.",Telecom,Bangalore,Offer,BI Analyst,11.8,1,Remote,"R, SQL, Data Visualization",04-02-2025,,,,Flexible
+8,PhonePe Private Limited,Consulting,Delhi,Applied,Senior Data Analyst,10.7,2,Remote,"Python, Machine Learning, SQL",12-02-2025,,,,Rotational
+9,Tech Mahindra Limited,IT Services,Bangalore,Rejected,Data Scientist,16.1,1,Remote,"Python, Machine Learning, SQL",06-01-2025,,,,Day
+10,Larsen & Toubro Limited,Analytics,Chennai,Applied,Data Analyst,15,4,Hybrid,"Python, Machine Learning, SQL",26-01-2025,,,,Flexible
+11,Microsoft Corporation,Manufacturing,Noida,Interview,Business Analyst,12.8,5,Remote,"Python, Statistics, Excel",19-01-2025,,,,Day
+12,The Hongkong and Shanghai Banking Corporation Limited,E-commerce,Noida,Offer,Data Scientist,13.2,0,Onsite,"Python, Machine Learning, SQL",21-02-2025,,,,Flexible
+13,Infosys Limited,Banking,Mumbai,Rejected,Data Scientist,9.7,3,Onsite,"Python, Statistics, Excel",23-02-2025,,,,Day
+14,Fractal Analytics Private Limited,Banking,Noida,Applied,Senior Data Analyst,14.2,4,Onsite,"Excel, SQL, Power BI",10-01-2025,,,,Flexible
+15,SAP SE,Fintech,Bangalore,Offer,Senior Data Analyst,9.2,3,Hybrid,"R, SQL, Data Visualization",09-01-2025,,,,Day
+16,Cognizant Technology Solutions Corporation,IT Services,Hyderabad,Rejected,Senior Data Analyst,14.5,1,Hybrid,"Python, SQL, Power BI",10-01-2025,,,,Flexible
+17,Google LLC,Analytics,Noida,Rejected,Data Scientist,17.9,5,Onsite,"Python, Machine Learning, SQL",04-02-2025,,,,Day
+18,"Amazon.com, Inc.",Consulting,Hyderabad,Rejected,Business Analyst,9.9,4,Onsite,"Python, Machine Learning, SQL",25-02-2025,,,,Day
+19,Tata Consultancy Services Limited,IT Services,Hyderabad,Applied,BI Analyst,13.3,2,Hybrid,"Excel, SQL, Power BI",21-02-2025,,,,Flexible
+20,Siemens AG,Banking,Pune,Screening,Data Scientist,12.4,4,Onsite,"Excel, SQL, Power BI",16-02-2025,,,,Flexible
+21,Tata Motors Limited,Analytics,Chennai,Offer,BI Analyst,9.7,1,Remote,"Python, SQL, Power BI",09-01-2025,,,,Flexible
+22,Genpact Limited,IT Services,Delhi,Screening,Business Analyst,8.7,0,Onsite,"Python, Statistics, Excel",03-02-2025,,,,Flexible
+23,Oracle Corporation,Manufacturing,Mumbai,Rejected,BI Analyst,15,2,Hybrid,"Python, Machine Learning, SQL",28-02-2025,,,,Rotational
+24,Robert Bosch GmbH,E-commerce,Noida,Applied,Data Analyst,5.3,5,Hybrid,"Python, Machine Learning, SQL",28-01-2025,,,,Rotational
+25,Aditya Birla Management Corporation Private Limited,Analytics,Bangalore,Rejected,Senior Data Analyst,15.4,1,Onsite,"Python, Statistics, Excel",15-02-2025,,,,Rotational
+26,Capgemini SE,Fintech,Bangalore,Applied,Data Scientist,17.9,0,Onsite,"Python, Machine Learning, SQL",02-03-2025,,,,Flexible
+27,KPMG International Limited,Consulting,Mumbai,Interview,Senior Data Analyst,6.2,2,Onsite,"R, SQL, Data Visualization",26-01-2025,,,,Day
+28,"Citibank, N.A.",E-commerce,Chennai,Interview,Data Analyst,4.6,2,Hybrid,"Python, SQL, Tableau",20-02-2025,,,,Day
+29,PricewaterhouseCoopers International Limited,Consulting,Delhi,Applied,BI Analyst,12.1,2,Onsite,"Python, SQL, Tableau",16-02-2025,,,,Flexible
+30,Reliance Industries Limited,Manufacturing,Mumbai,Rejected,Business Analyst,13.5,3,Remote,"Python, Statistics, Excel",19-01-2025,,,,Day
+31,Morgan Stanley,Consulting,Chennai,Interview,Business Analyst,12.8,5,Hybrid,"Python, SQL, Tableau",30-01-2025,,,,Flexible
+32,"The Goldman Sachs Group, Inc.",Analytics,Delhi,Rejected,Business Analyst,11.4,2,Onsite,"Python, Statistics, Excel",04-02-2025,,,,Rotational
+33,Flipkart Private Limited,Telecom,Pune,Rejected,Senior Data Analyst,12.4,4,Onsite,"R, SQL, Data Visualization",21-02-2025,,,,Day
+34,Wipro Limited,Banking,Hyderabad,Interview,BI Analyst,14.6,3,Onsite,"Python, SQL, Power BI",20-01-2025,,,,Day
+35,HCL Technologies Limited,Fintech,Delhi,Offer,Data Scientist,12.4,3,Remote,"Python, SQL, Tableau",03-02-2025,,,,Rotational
+36,International Business Machines Corporation,Analytics,Noida,Screening,Business Analyst,4.1,0,Remote,"R, SQL, Data Visualization",04-02-2025,,,,Rotational
+37,Bundl Technologies Private Limited,Telecom,Bangalore,Screening,Data Scientist,13.6,5,Hybrid,"Excel, SQL, Power BI",31-01-2025,,,,Rotational
+38,Zomato Limited,Analytics,Bangalore,Screening,Data Analyst,8.6,2,Remote,"Python, Statistics, Excel",18-01-2025,,,,Rotational
+39,JPMorgan Chase & Co.,IT Services,Noida,Interview,Data Scientist,12.6,5,Remote,"Python, Machine Learning, SQL",16-01-2025,,,,Day
+40,NxtWave Disruptive Technologies Private Limited,Consulting,Noida,Interview,Data Analyst,17.4,3,Remote,"Python, Machine Learning, SQL",14-02-2025,,,,Day
+41,Persistent Systems Limited,E-commerce,Bangalore,Offer,Data Scientist,11.8,2,Hybrid,"Python, Machine Learning, SQL",31-01-2025,,,,Day
+42,Electronic Arts Inc.,E-commerce,Delhi,Interview,Senior Data Analyst,12.9,0,Remote,"Python, SQL, Tableau",04-02-2025,,,,Rotational
+43,RiskInsight Consulting Private Limited,Analytics,Mumbai,Applied,Data Analyst,4.8,0,Hybrid,"Python, Statistics, Excel",25-01-2025,,,,Day
+44,Indian Political Action Committee (I-PAC),Manufacturing,Delhi,Interview,Business Analyst,12,2,Remote,"Python, SQL, Tableau",27-02-2025,,,,Flexible
+45,Aptita Consulting Partners Private Limited,Telecom,Mumbai,Screening,BI Analyst,7.9,5,Remote,"R, SQL, Data Visualization",22-01-2025,,,,Flexible
+46,Keka HR Software Private Limited,E-commerce,Delhi,Rejected,Business Analyst,11.2,4,Onsite,"Python, Statistics, Excel",06-02-2025,,,,Rotational
+47,"Cohere Health, Inc.",Fintech,Pune,Offer,Data Analyst,16.8,0,Onsite,"Python, SQL, Power BI",19-01-2025,,,,Flexible
+48,"Salesforce, Inc.",IT Services,Gurgaon,Screening,Data Scientist,10.7,3,Hybrid,"Python, SQL, Power BI",01-03-2025,,,,Day
+49,Merilytics (Accordion India),E-commerce,Bangalore,Rejected,Senior Data Analyst,17.6,5,Hybrid,"Python, SQL, Tableau",08-01-2025,,,,Day
+50,Synaptica Private Limited,Consulting,Chennai,Applied,BI Analyst,4.4,2,Hybrid,"R, SQL, Data Visualization",26-01-2025,,,,Day
+51,Soul AI Private Limited,Manufacturing,Delhi,Screening,BI Analyst,14.8,2,Remote,"Python, SQL, Tableau",07-02-2025,,,,Day
+52,"ValueMomentum, Inc.",Fintech,Mumbai,Rejected,Business Analyst,9.4,1,Onsite,"Python, SQL, Power BI",24-02-2025,,,,Day
+53,Agoda Company Pte. Ltd.,Manufacturing,Bangalore,Rejected,Data Analyst,5,2,Remote,"Excel, SQL, Power BI",19-01-2025,,,,Rotational
+54,Sanofi S.A.,IT Services,Mumbai,Screening,Data Analyst,17.5,0,Hybrid,"Python, SQL, Tableau",20-02-2025,,,,Rotational
+55,LTIMindtree Limited,Fintech,Chennai,Offer,BI Analyst,12.3,0,Onsite,"Python, SQL, Power BI",03-02-2025,,,,Rotational
+56,Air India SATS Airport Services Private Limited,IT Services,Delhi,Interview,Senior Data Analyst,9.8,3,Hybrid,"Python, SQL, Tableau",15-02-2025,,,,Rotational
+57,"Azurity Pharmaceuticals, Inc.",Manufacturing,Bangalore,Applied,Data Analyst,17.6,1,Remote,"R, SQL, Data Visualization",04-02-2025,,,,Flexible
+58,"RealPage, Inc.",Consulting,Chennai,Applied,BI Analyst,12.6,0,Hybrid,"Python, SQL, Power BI",25-01-2025,,,,Rotational
+59,"MSD (Merck & Co., Inc.)",Telecom,Pune,Rejected,Business Analyst,16.8,1,Onsite,"Excel, SQL, Power BI",24-01-2025,,,,Day
+60,DEFTeam Solutions Private Limited,Analytics,Bangalore,Screening,BI Analyst,13.1,0,Hybrid,"Python, Machine Learning, SQL",25-01-2025,,,,Day
+61,Galactix Solutions Private Limited,Manufacturing,Gurgaon,Offer,Data Scientist,12.2,3,Remote,"Python, Statistics, Excel",02-03-2025,,,,Flexible
+62,Cybotrix Technologies Private Limited,Analytics,Hyderabad,Interview,Business Analyst,13.3,0,Onsite,"Excel, SQL, Power BI",19-02-2025,,,,Flexible
+63,DataTerminal Systems India Private Limited,IT Services,Pune,Applied,Data Analyst,12.5,0,Hybrid,"Python, SQL, Tableau",18-02-2025,,,,Day
+64,Tiger Analytics India Consulting Private Limited,Telecom,Noida,Rejected,BI Analyst,13.3,2,Hybrid,"R, SQL, Data Visualization",10-01-2025,,,,Day
+65,Tredence Inc.,Manufacturing,Bangalore,Offer,Data Analyst,12,2,Hybrid,"Python, SQL, Tableau",09-01-2025,,,,Day
+66,Oliver Wyman Group,IT Services,Bangalore,Screening,Senior Data Analyst,4.5,2,Onsite,"Python, SQL, Power BI",01-01-2025,,,,Rotational
+67,Coforge Limited,Analytics,Pune,Interview,Business Analyst,4.6,2,Hybrid,"Excel, SQL, Power BI",16-02-2025,,,,Day
+68,RSA Security LLC,Banking,Gurgaon,Offer,Data Analyst,8.8,1,Hybrid,"R, SQL, Data Visualization",02-01-2025,,,,Flexible
+69,Good Health Company Private Limited,Analytics,Chennai,Applied,Senior Data Analyst,13.7,1,Onsite,"Python, Machine Learning, SQL",07-02-2025,,,,Rotational
+70,GlobalData Plc,Banking,Bangalore,Offer,BI Analyst,11.8,3,Hybrid,"Python, SQL, Tableau",09-02-2025,,,,Rotational
+71,Novartis AG,Telecom,Bangalore,Offer,BI Analyst,4.6,1,Onsite,"Python, Statistics, Excel",22-02-2025,,,,Day
+72,Dr. Reddy’s Laboratories Limited,Telecom,Bangalore,Interview,Business Analyst,13.6,5,Onsite,"Python, Statistics, Excel",29-01-2025,,,,Rotational
+73,Aurobindo Pharma Limited,Telecom,Delhi,Interview,Business Analyst,15,4,Hybrid,"Python, Statistics, Excel",09-01-2025,,,,Day
+74,HSBC Holdings plc,Manufacturing,Pune,Applied,Senior Data Analyst,6.8,2,Hybrid,"Excel, SQL, Power BI",21-02-2025,,,,Day
+75,Promea Therapeutics Private Limited,Consulting,Pune,Screening,Data Analyst,13.3,1,Remote,"Python, Statistics, Excel",11-02-2025,,,,Rotational
+76,Saven Technologies Inc.,Banking,Gurgaon,Offer,Data Scientist,11.1,3,Hybrid,"Excel, SQL, Power BI",15-01-2025,,,,Day
+77,GSNA Education Private Limited,Consulting,Hyderabad,Rejected,Business Analyst,9.4,5,Hybrid,"Python, Statistics, Excel",14-02-2025,,,,Rotational
+78,Synchrony Financial,IT Services,Chennai,Screening,Data Scientist,10,4,Remote,"Python, Statistics, Excel",20-01-2025,,,,Flexible
+79,Twilight IT Professionals Private Limited,Fintech,Pune,Interview,Data Analyst,11.2,4,Hybrid,"Python, SQL, Power BI",10-01-2025,,,,Day
+80,Innopark India Private Limited,Manufacturing,Pune,Interview,Business Analyst,11.6,4,Hybrid,"Python, SQL, Tableau",28-01-2025,,,,Day
+81,"Inspire Brands, Inc.",E-commerce,Delhi,Applied,Data Scientist,17.5,2,Hybrid,"Python, Machine Learning, SQL",16-01-2025,,,,Day
+82,Stier Solutions Inc.,Banking,Chennai,Applied,Business Analyst,13,5,Hybrid,"Python, SQL, Power BI",24-01-2025,,,,Rotational
+83,Anblicks Software Solutions Private Limited,Fintech,Delhi,Rejected,Business Analyst,17.2,2,Remote,"Python, Machine Learning, SQL",21-01-2025,,,,Rotational
+84,Kilonewtons Technologies Private Limited,E-commerce,Gurgaon,Interview,Business Analyst,11.4,4,Onsite,"Python, SQL, Tableau",27-01-2025,,,,Day
+85,IBM India Private Limited,IT Services,Gurgaon,Interview,Data Analyst,10.9,4,Remote,"R, SQL, Data Visualization",05-01-2025,,,,Rotational
+86,Goldman Sachs Services Private Limited,Manufacturing,Bangalore,Applied,Business Analyst,14.6,3,Onsite,"Python, SQL, Power BI",25-01-2025,,,,Rotational
+87,EY Global Services Limited,Manufacturing,Chennai,Interview,Data Scientist,6.6,1,Onsite,"Python, SQL, Power BI",27-02-2025,,,,Flexible
+88,Adobe Systems Incorporated,E-commerce,Pune,Screening,Data Scientist,15.3,5,Hybrid,"R, SQL, Data Visualization",10-02-2025,,,,Flexible
+89,"Samsung Electronics Co., Ltd.",Consulting,Hyderabad,Rejected,Data Analyst,6.3,2,Remote,"Python, Statistics, Excel",10-02-2025,,,,Day
+90,Qualcomm Incorporated,Fintech,Chennai,Rejected,Data Scientist,4.8,5,Hybrid,"Python, Machine Learning, SQL",21-02-2025,,,,Day
+91,"Uber Technologies, Inc.",IT Services,Noida,Applied,Senior Data Analyst,11.4,5,Remote,"Python, SQL, Power BI",07-02-2025,,,,Day
+92,Deliveroo plc,Consulting,Delhi,Offer,Senior Data Analyst,17,3,Hybrid,"Python, SQL, Tableau",26-01-2025,,,,Flexible
+93,Teleperformance SE,Fintech,Bangalore,Screening,Data Scientist,15.6,1,Onsite,"Python, SQL, Power BI",19-02-2025,,,,Rotational
+94,American Express Company,Manufacturing,Hyderabad,Screening,Data Scientist,11.8,3,Hybrid,"R, SQL, Data Visualization",28-01-2025,,,,Rotational
+95,Barclays Bank PLC,Analytics,Gurgaon,Offer,BI Analyst,15.5,3,Onsite,"Python, SQL, Tableau",23-02-2025,,,,Day
+96,"EXL Service Holdings, Inc.",E-commerce,Gurgaon,Rejected,Data Scientist,16.9,2,Remote,"Python, Statistics, Excel",23-01-2025,,,,Flexible
+97,Virtusa Corporation,Analytics,Chennai,Applied,Data Analyst,17.2,4,Remote,"Python, Machine Learning, SQL",13-02-2025,,,,Rotational
+98,Hexaware Technologies Limited,Fintech,Gurgaon,Rejected,Data Scientist,16.8,3,Onsite,"Python, Statistics, Excel",16-01-2025,,,,Rotational
+99,Mindtree Limited,Analytics,Hyderabad,Rejected,Senior Data Analyst,6.5,4,Onsite,"Python, SQL, Tableau",25-01-2025,,,,Flexible
+100,CARS24 Services Private Limited,Consulting,Mumbai,Applied,BI Analyst,15.8,1,Remote,"Python, SQL, Power BI",21-02-2025,,,,Rotational
+101,Bizongo (Clean Slate Technologies Private Limited),Banking,Chennai,Offer,Data Analyst,14.6,5,Hybrid,"Python, SQL, Tableau",11-02-2025,,,,Day
+102,VerSe Innovation Private Limited (Dailyhunt),Telecom,Pune,Screening,BI Analyst,7.6,1,Onsite,"Python, Machine Learning, SQL",23-02-2025,,,,Flexible
+103,InMobi Technology Services Private Limited,Fintech,Bangalore,Interview,Senior Data Analyst,6,0,Hybrid,"Python, Machine Learning, SQL",02-02-2025,,,,Flexible
+104,GlobalLogic Inc.,Banking,Pune,Rejected,Senior Data Analyst,16.6,3,Onsite,"Python, SQL, Tableau",30-01-2025,,,,Day
+105,Razorpay Software Private Limited,E-commerce,Chennai,Rejected,Business Analyst,8,0,Hybrid,"Python, Statistics, Excel",18-02-2025,,,,Flexible
+106,Dreamplug Technologies Private Limited (CRED),Telecom,Bangalore,Applied,Data Analyst,7.8,2,Remote,"R, SQL, Data Visualization",02-01-2025,,,,Flexible
+107,Meesho Private Limited,IT Services,Pune,Rejected,BI Analyst,9.5,3,Remote,"R, SQL, Data Visualization",04-01-2025,,,,Rotational
+108,Hiveloop Technology Private Limited (Udaan),IT Services,Noida,Rejected,Data Scientist,9.8,1,Remote,"R, SQL, Data Visualization",08-01-2025,,,,Day
+109,Nextbillion Technology Private Limited (Groww),Consulting,Chennai,Rejected,Business Analyst,7.4,1,Remote,"Python, SQL, Tableau",09-02-2025,,,,Rotational
+110,Zerodha Broking Limited,IT Services,Mumbai,Screening,Business Analyst,17.1,2,Hybrid,"R, SQL, Data Visualization",25-01-2025,,,,Rotational
+111,Kiranakart Technologies Private Limited (Zepto),Manufacturing,Noida,Offer,Senior Data Analyst,12.3,3,Remote,"Excel, SQL, Power BI",09-02-2025,,,,Day
+112,Quadrillion Finance Private Limited (Slice),IT Services,Bangalore,Rejected,Data Scientist,10.5,0,Remote,"R, SQL, Data Visualization",15-02-2025,,,,Rotational
+113,Acko General Insurance Limited,Manufacturing,Pune,Interview,BI Analyst,13.8,2,Hybrid,"Python, Statistics, Excel",04-01-2025,,,,Flexible
+114,Navi Technologies Limited,Consulting,Delhi,Applied,Data Analyst,11.1,5,Onsite,"Python, Statistics, Excel",04-02-2025,,,,Day
+115,Mohalla Tech Private Limited (ShareChat),Analytics,Noida,Interview,Data Analyst,12.2,5,Onsite,"Python, SQL, Power BI",26-02-2025,,,,Day
+116,Postdot Technologies Private Limited (Postman),E-commerce,Pune,Rejected,Business Analyst,17.2,1,Onsite,"Excel, SQL, Power BI",25-01-2025,,,,Flexible
+117,Chargebee Technologies Private Limited,Analytics,Chennai,Interview,Data Scientist,7.4,3,Remote,"R, SQL, Data Visualization",02-02-2025,,,,Day
+118,Whatfix Private Limited,Banking,Mumbai,Interview,Data Analyst,6.7,4,Hybrid,"Python, SQL, Power BI",29-01-2025,,,,Rotational
+119,Sorting Hat Technologies Private Limited (Unacademy),E-commerce,Gurgaon,Interview,Data Scientist,7.7,3,Remote,"Python, SQL, Tableau",19-02-2025,,,,Rotational
+120,Think and Learn Private Limited (Byju’s),E-commerce,Gurgaon,Applied,Data Analyst,14.5,3,Onsite,"Python, Statistics, Excel",19-02-2025,,,,Day
+121,SmartShift Logistics Solutions Private Limited (Porter),IT Services,Bangalore,Rejected,Data Analyst,14.8,1,Onsite,"Python, SQL, Tableau",02-01-2025,,,,Flexible
+122,Dunzo Digital Private Limited,Banking,Chennai,Screening,Data Scientist,15.4,2,Remote,"Python, SQL, Tableau",08-02-2025,,,,Day
+123,UrbanClap Technologies India Private Limited (Urban Company),IT Services,Mumbai,Applied,Senior Data Analyst,4.3,0,Hybrid,"R, SQL, Data Visualization",28-01-2025,,,,Rotational
+124,Practo Technologies Private Limited,Consulting,Chennai,Screening,Business Analyst,5.9,0,Remote,"R, SQL, Data Visualization",17-02-2025,,,,Rotational
+125,,E-commerce,Chennai,Applied,Data Analyst,6.1,4,Onsite,"Python, Statistics, Excel",13-01-2025,,,,Day
