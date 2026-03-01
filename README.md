@@ -37,14 +37,3 @@ pip install -r requirements.txt
 streamlit run app.py
 
 
-## 📸 Screenshots
-
-### Dashboard
-![Dashboard](docs/dashboard.png)
-
-### Prediction Output
-![Prediction](docs/prediction.png)
-
-### Analytics
-![Analytics](docs/analytics.png)
-
