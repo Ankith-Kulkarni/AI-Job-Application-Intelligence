@@ -47,3 +47,4 @@ streamlit run app.py
 
 ### Analytics
 ![Analytics](docs/analytics.png)
+
