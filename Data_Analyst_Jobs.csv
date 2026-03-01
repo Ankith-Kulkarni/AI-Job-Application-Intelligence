@@ -70,7 +70,7 @@ Com_id,Company_name,Area,City,Status,Roles,Package,Experience,Work_mode,Skills,A
 69,Good Health Company Private Limited,Analytics,Chennai,Applied,Senior Data Analyst,13.7,1,Onsite,"Python, Machine Learning, SQL",07-02-2025,,,,Rotational
 70,GlobalData Plc,Banking,Bangalore,Offer,BI Analyst,11.8,3,Hybrid,"Python, SQL, Tableau",09-02-2025,,,,Rotational
 71,Novartis AG,Telecom,Bangalore,Offer,BI Analyst,4.6,1,Onsite,"Python, Statistics, Excel",22-02-2025,,,,Day
-72,Dr. Reddy’s Laboratories Limited,Telecom,Bangalore,Interview,Business Analyst,13.6,5,Onsite,"Python, Statistics, Excel",29-01-2025,,,,Rotational
+72,Dr. ReddyÂ’s Laboratories Limited,Telecom,Bangalore,Interview,Business Analyst,13.6,5,Onsite,"Python, Statistics, Excel",29-01-2025,,,,Rotational
 73,Aurobindo Pharma Limited,Telecom,Delhi,Interview,Business Analyst,15,4,Hybrid,"Python, Statistics, Excel",09-01-2025,,,,Day
 74,HSBC Holdings plc,Manufacturing,Pune,Applied,Senior Data Analyst,6.8,2,Hybrid,"Excel, SQL, Power BI",21-02-2025,,,,Day
 75,Promea Therapeutics Private Limited,Consulting,Pune,Screening,Data Analyst,13.3,1,Remote,"Python, Statistics, Excel",11-02-2025,,,,Rotational
@@ -118,9 +118,9 @@ Com_id,Company_name,Area,City,Status,Roles,Package,Experience,Work_mode,Skills,A
 117,Chargebee Technologies Private Limited,Analytics,Chennai,Interview,Data Scientist,7.4,3,Remote,"R, SQL, Data Visualization",02-02-2025,,,,Day
 118,Whatfix Private Limited,Banking,Mumbai,Interview,Data Analyst,6.7,4,Hybrid,"Python, SQL, Power BI",29-01-2025,,,,Rotational
 119,Sorting Hat Technologies Private Limited (Unacademy),E-commerce,Gurgaon,Interview,Data Scientist,7.7,3,Remote,"Python, SQL, Tableau",19-02-2025,,,,Rotational
-120,Think and Learn Private Limited (Byju’s),E-commerce,Gurgaon,Applied,Data Analyst,14.5,3,Onsite,"Python, Statistics, Excel",19-02-2025,,,,Day
+120,Think and Learn Private Limited (ByjuÂ’s),E-commerce,Gurgaon,Applied,Data Analyst,14.5,3,Onsite,"Python, Statistics, Excel",19-02-2025,,,,Day
 121,SmartShift Logistics Solutions Private Limited (Porter),IT Services,Bangalore,Rejected,Data Analyst,14.8,1,Onsite,"Python, SQL, Tableau",02-01-2025,,,,Flexible
 122,Dunzo Digital Private Limited,Banking,Chennai,Screening,Data Scientist,15.4,2,Remote,"Python, SQL, Tableau",08-02-2025,,,,Day
 123,UrbanClap Technologies India Private Limited (Urban Company),IT Services,Mumbai,Applied,Senior Data Analyst,4.3,0,Hybrid,"R, SQL, Data Visualization",28-01-2025,,,,Rotational
 124,Practo Technologies Private Limited,Consulting,Chennai,Screening,Business Analyst,5.9,0,Remote,"R, SQL, Data Visualization",17-02-2025,,,,Rotational
-125,,E-commerce,Chennai,Applied,Data Analyst,6.1,4,Onsite,"Python, Statistics, Excel",13-01-2025,,,,Day
+
