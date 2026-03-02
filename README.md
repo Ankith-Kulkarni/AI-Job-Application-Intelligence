@@ -18,7 +18,7 @@ This project combines **SQLite**, **Pandas**, and **Scikit-learn** with an inter
 ---
 
 ## 🏗 System Architecture
-
+```text
 User Input (Streamlit UI)
         ↓
 SQLite Database
@@ -30,7 +30,7 @@ Scikit-learn ML Pipeline
 Random Forest Model
         ↓
 Prediction Output with Confidence Score
-
+```
 
 ## Machine Learning Model
 
@@ -96,8 +96,6 @@ streamlit run app.py
 
 ---
 
-
-<<<<<<< HEAD
 ## 🖼️ Demo
 
 Here are some screenshots of the dashboard in action:
@@ -122,14 +120,11 @@ Here are some screenshots of the dashboard in action:
 
 **Ankith Kulkarni**  
 B.Com (Honours)  
-Certified Financial Analyst  
+Certified Data Analyst  
 Aspiring Data Scientist  
 
-📫 Connect with me on LinkedIn  
-[linkdin](https://www.linkedin.com/in/ankith-kulkarni-64310422a)
+📫 Connect with me on LinkedIn:  
+[Ankith Kulkarni](https://www.linkedin.com/in/ankith-kulkarni-64310422a)
 
 
 
-
-=======
->>>>>>> 1f1f949fe97c4689ed201cda98405209b49082cd
