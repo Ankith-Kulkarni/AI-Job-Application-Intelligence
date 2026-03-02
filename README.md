@@ -97,6 +97,7 @@ streamlit run app.py
 ---
 
 
+<<<<<<< HEAD
 ## 🖼️ Demo
 
 Here are some screenshots of the dashboard in action:
@@ -130,3 +131,5 @@ Aspiring Data Scientist
 
 
 
+=======
+>>>>>>> 1f1f949fe97c4689ed201cda98405209b49082cd
