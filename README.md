@@ -1,6 +1,7 @@
 # 📊 AI Job Application Intelligence System
 
-A Streamlit-powered dashboard to **track job applications**, **analyze success rates**, and **predict outcomes** using machine learning.  
+*An end-to-end **AI-powered job application tracking system** that helps users analyze application performance, uncover success patterns, and predict outcomes using **machine learning**.* 
+
 This project combines **SQLite**, **Pandas**, and **Scikit-learn** with an interactive UI for smarter career management.
 
 ---
@@ -16,6 +17,61 @@ This project combines **SQLite**, **Pandas**, and **Scikit-learn** with an inter
 
 ---
 
+## 🏗 System Architecture
+
+User Input (Streamlit UI)
+        ↓
+SQLite Database
+        ↓
+Pandas Data Processing
+        ↓
+Scikit-learn ML Pipeline
+        ↓
+Random Forest Model
+        ↓
+Prediction Output with Confidence Score
+
+
+## Machine Learning Model
+
+**Model Used:** *RandomForestClassifier*
+
+**Target Variable:** *Application Status (Offer / Interview / Rejected)*
+
+**Features Used:**
+- City
+- Work Mode
+- Experience Required
+- Package (LPA)
+- Role
+
+**Preprocessing Pipeline:**
+- One-Hot Encoding for categorical features
+- Standard Scaling for numerical features
+- ColumnTransformer for feature management
+- Integrated Pipeline for reproducibility
+
+**Evaluation Metrics:**
+- Accuracy Score
+- F1-Score
+- Classification Report
+
+*The model enables predictive analysis to identify high-probability job applications.*
+
+
+## Dataset Schema
+| Column Name      | Description                            |
+| ---------------- | -------------------------------------- |
+| Company          | Company Name                           |
+| Role             | Job Title                              |
+| City             | Job Location                           |
+| Work_Mode        | Remote / Hybrid / Onsite               |
+| Package_LPA      | Salary Offered (LPA)                   |
+| Experience_Years | Required Experience                    |
+| Status           | Applied / Interview / Offer / Rejected |
+| Application_Date | Date of Application                    |
+
+
 ## 🛠 Tech Stack
 
 - **Frontend/UI**: [Streamlit]
@@ -26,6 +82,7 @@ This project combines **SQLite**, **Pandas**, and **Scikit-learn** with an inter
 
 ---
 
+
 ## ▶️ Run Locally
 
 Clone the repository and install dependencies:
@@ -35,16 +92,41 @@ git clone https://github.com/Ankith-Kulkarni/AI-Job-Application-Intelligence.git
 cd AI-Job-Application-Intelligence
 pip install -r requirements.txt
 streamlit run app.py
+```
+
+---
 
 
-## 📸 Screenshots
+## 🖼️ Demo
 
-### Dashboard
+Here are some screenshots of the dashboard in action:
+
+### Dashboard Overview
+*Displays overall performance metrics and application tracking summary.*
+
 ![Dashboard](docs/dashboard.png)
 
-### Prediction Output
-![Prediction](docs/prediction.png)
+### Insights
+*City-wise and work mode success analysis with interactive filters.*
 
-### Analytics
-![Analytics](docs/analytics.png)
+![Insights](docs/analytics.png)
+
+### Prediction Results
+*Predicts job outcome probability with confidence score visualization.*
+
+![Prediction Screenshot](docs/prediction.png)
+
+
+## 👨‍💻 Author
+
+**Ankith Kulkarni**  
+B.Com (Honours)  
+Certified Financial Analyst  
+Aspiring Data Scientist  
+
+📫 Connect with me on LinkedIn  
+[linkdin](https://www.linkedin.com/in/ankith-kulkarni-64310422a)
+
+
+
 
